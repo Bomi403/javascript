@@ -1,0 +1,9 @@
+Date
+	날짜와 시간을 다루는 생성자
+	생성을 하면 현재 시간을 출력할수맀다
+	
+	.getFullYear() --> 연도 // 2021
+	.getMonth() -> 0~11)
+	.getDate()  -> 날짜
+	.getHours() -> 시간
+	.getMinutes
